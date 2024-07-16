@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Codsoft Machine Learning Projects
 
 This repository contains implementations of various machine learning projects aimed at solving different problems using data analysis, feature engineering, and machine learning techniques.
 
