@@ -6,7 +6,6 @@ This repository contains implementations of various machine learning projects ai
 
 - Projects Overview and Datasets
 - Technologies Used
-- Installation
 
 ## Projects Overview
 
