@@ -1,4 +1,4 @@
-- Overview
+ Overview
 
  This project implements machine learning techniques to detect fraudulent credit card transactions. The aim is to identify fraudulent transactions early to minimize financial loss for both customers and businesses.
 
@@ -10,7 +10,7 @@
 - Technologies
 - Results
 
-- Dataset
+  Dataset
   
  The dataset used for this project is "https://www.kaggle.com/datasets/kartik2112/fraud-detection" , which contains the brief description of the dataset,(e.g., number of records, features, etc.,)
 
@@ -25,6 +25,7 @@
 - Technologies
   
  Python
+ 
  Libraries: pandas, scikit-learn, matplotlib, seaborn
 
 - Results
